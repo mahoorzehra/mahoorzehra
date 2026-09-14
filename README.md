@@ -1,8 +1,16 @@
-<h1 align="center">Hi 👋, I'm Mahoor</h1>
-<h3 align="center">A hardworking student from Kashmir</h3>
+<p align="center">
+<img width="100%" src="./Header_github.png" alt="Mahoor's GitHub Header"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahoorzehra&label=Profile%20views&color=0e75b6&style=flat" alt="mahoorzehra" /> </p>
+<h1 align="center">Hi, I'm Mahoor </h1>
 
+<p align="center">
+  <i>Student • Programmer • Lifelong Learner</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Currently+learning+Python+%F0%9F%90%8D;Exploring+Data+Science+%F0%9F%93%8A;Building+my+programming+foundations+%F0%9F%92%BB;One+project+at+a+time+%E2%9C%A8" alt="Typing SVG" />
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahoorzehra" alt="mahoorzehra" /></a> </p>
 
 - 🔭 I’m currently working on **AI and Data Science**
