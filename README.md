@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Currently+learning+Python+%F0%9F%90%8D;Exploring+Data+Science+%F0%9F%93%8A;Building+my+programming+foundations+%F0%9F%92%BB;One+project+at+a+time+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Currently+learning+Python+Libraries+%F0%9F%90%8D;Exploring+Data+Science+%F0%9F%93%8A;Building+my+programming+foundations+%F0%9F%92%BB;One+project+at+a+time+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 - 💻 Building my foundation in programming and computer applications
@@ -17,11 +17,15 @@
 - 📊 Exploring data visualization, SQL, Power BI and Python libraries
 - 🚀 Interested in using technology to build meaningful, real-world solutions
 
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mahoorzehra&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_height=176" alt="GitHub Streak" /></a> </p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,c,python" />
-  </a>
-</p>
+  </a> </p>
+ 
 
 
